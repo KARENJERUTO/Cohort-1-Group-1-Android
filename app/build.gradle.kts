@@ -103,7 +103,6 @@ dependencies {
     implementation ("com.github.chrisbanes:PhotoView:2.3.0")
     implementation ("com.github.cachapa:ExpandableLayout:2.9.2")
 
-
     /* Koin - dependency injection */
     implementation ("io.insert-koin:koin-core:3.5.3")
     implementation ("io.insert-koin:koin-android:3.5.3")
