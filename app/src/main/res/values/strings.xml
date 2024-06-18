@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">StarStream</string>
+
+    <string name="title_bottom_nav_bar_1">Home</string>
+    <string name="title_bottom_nav_bar_2">Search</string>
+    <string name="title_bottom_nav_bar_3">Favorites</string>
+
 </resources>
