@@ -1,8 +1,10 @@
-package com.example.starstream
+package com.example.starstream.presentation.ui.home
 
 import android.os.Bundle
 import android.view.View
+import com.example.starstream.R
 import com.example.starstream.databinding.FragmentHomeBinding
+import com.example.starstream.presentation.adapter.FragmentAdapter
 import com.google.android.material.tabs.TabLayoutMediator
 
 class HomeFragment : BaseFragment<FragmentHomeBinding>(R.layout.fragment_home) {
